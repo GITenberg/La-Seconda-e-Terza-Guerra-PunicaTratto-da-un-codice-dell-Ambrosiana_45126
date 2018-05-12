@@ -1,0 +1,46 @@
+_repo: La-Seconda-e-Terza-Guerra-PunicaTratto-da-un-codice-dell-Ambrosiana_45126
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45126-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bruni, Leonardo
+    aliases:
+    - Lionardo, Aretino
+    - Bruni, Leonardo Aretino
+    - Aretino, Leonardo
+    - Bruno, Leonardo
+    - Brunus, Leonardus
+    - Arretinus, Leonardus
+    - Leonardus, Aretinus
+    - Aretinus, Leonardus
+    - Aretino, Lionardo
+    birthdate: 1369
+    deathdate: 1444
+    gutenberg_agent_id: '43839'
+    url: http://www.gutenberg.org/2009/agents/43839
+  editor:
+    agent_name: Ceruti, Antonio
+    birthdate: 1830
+    deathdate: 1918
+    gutenberg_agent_id: '43113'
+    url: http://www.gutenberg.org/2009/agents/43113
+description: Attributed to Leonardo Bruni.
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2014-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45126'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Punic War, 3rd, 149-146 B.C.'
+- !lcc 'DG'
+- !lcsh 'Punic War, 2nd, 218-201 B.C.'
+title: 'La Seconda e Terza Guerra Punica
+
+  Tratto da un codice dell''Ambrosiana'
+url: http://www.gutenberg.org/ebooks/45126
