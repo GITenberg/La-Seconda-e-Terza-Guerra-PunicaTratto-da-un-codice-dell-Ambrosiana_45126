@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '43113'
     url: http://www.gutenberg.org/2009/agents/43113
 description: Attributed to Leonardo Bruni.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45126#La-Seconda-e-Terza-Guerra-PunicaTratto-da-un-codice-dell-Ambrosiana
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2014-03-13'
 gutenberg_type: Text
